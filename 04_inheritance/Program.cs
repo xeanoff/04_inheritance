@@ -1,4 +1,4 @@
-﻿namespace LAB4
+﻿namespace _04_inheritance
 {
     public enum Engine { diesel, gas, gasoline, electric };
     public class Vehicle
